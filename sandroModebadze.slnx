@@ -1,7 +1,8 @@
 <Solution>
-  <Project Path="lesson 4/lesson 4.csproj" Id="8c00d7ec-110d-489d-8fbb-04fd3faeb54e" />
-  <Project Path="lesson 5/lesson 5.csproj" Id="ca48f827-a42d-451c-ac33-b26c72df44fb" />
-  <Project Path="lesson 6/lesson 6.csproj" Id="53fd8962-80a6-417c-9bc3-f6d7c06a4ab1" />
+  <Project Path="lesson 4/lesson4.csproj" Id="8c00d7ec-110d-489d-8fbb-04fd3faeb54e" />
+  <Project Path="lesson 5/lesson5.csproj" Id="ca48f827-a42d-451c-ac33-b26c72df44fb" />
+  <Project Path="lesson 6/lesson6.csproj" Id="53fd8962-80a6-417c-9bc3-f6d7c06a4ab1" />
   <Project Path="lesson2/lesson2.csproj" />
   <Project Path="lesson3/lesson3.csproj" />
+  <Project Path="lesson7/lesson7.csproj" Id="482b9c40-8e4d-4ad4-9ec5-36768b737431" />
 </Solution>
