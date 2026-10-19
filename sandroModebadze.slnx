@@ -5,4 +5,5 @@
   <Project Path="lesson2/lesson2.csproj" />
   <Project Path="lesson3/lesson3.csproj" />
   <Project Path="lesson7/lesson7.csproj" Id="482b9c40-8e4d-4ad4-9ec5-36768b737431" />
+  <Project Path="lesson8/lesson8.csproj" Id="a1775b86-8ed3-41a7-a2c3-154e1810d705" />
 </Solution>
