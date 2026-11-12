@@ -9,9 +9,6 @@
             List<int> list = new List<int>();
 
             list.IsGreater(x => x >  3);
-
-
-
         }
     }
 }

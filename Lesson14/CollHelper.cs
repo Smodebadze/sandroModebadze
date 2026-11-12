@@ -49,6 +49,10 @@ namespace Lesson14
         }
 
 
+
+
+
+
         public static bool Any<T>(this IEnumerable<T> coll, Predicate<T> Logic) where T : IComparable<T>
         {
             if (coll == null)
